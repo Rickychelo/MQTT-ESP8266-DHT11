@@ -1,2 +1,2 @@
-# MQTT-ESP8266-DHT11
-Conexión entre un ESP8266 y un DHT11. Además de enviar los datos de humedad y temperatura ambiental medidos por el sensor a un servidor Mosquitto MQTT
+# Conexión del ESP8266 con DHT11 y Envío de Datos a un Servidor Mosquitto MQTT
+Este proyecto muestra el código para conectar un sensor DHT11, que mide la humedad y temperatura ambiental, con un ESP8266 para enviar los datos recolectados a un servidor Mosquitto MQTT. Ideal para aplicaciones IoT y sistemas de monitoreo ambiental.
