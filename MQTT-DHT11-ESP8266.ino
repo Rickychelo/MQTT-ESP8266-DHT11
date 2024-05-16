@@ -10,11 +10,12 @@ float temperatura;
 float humedad;
 
 // Variables de conexión WiFi
-const char* ssid = "SmartLab";
-const char* password = "D5cy6$3y)5&$wT$7ry";
+const char* ssid = "Red";
+const char* password = "Password";
 
 // Variables de conexión MQTT
-const char* mqtt_server = "192.168.0.18"; // Dirección IP del servidor MQTT
+const char* mqtt_server = "IP"; // Dirección IP del servidor MQTT
+//MQTT Topics
 const char* mqtt_topic_temp = "temperaturaH";
 const char* mqtt_topic_hume = "humedadH";
 
